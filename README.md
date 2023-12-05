@@ -16,8 +16,6 @@ The parts were designed and printed with:
 - Material: PETG
 
 
-![Prototype](https://github.com/FazerTom/Case_HackRF_OperaCake/blob/main/docs/images/Prototyp.png)
-
  
 ### V2 - New release for HackRF One and single or multiple Opera Cakes (modularly expandable by correspondingly many intermediate parts).
 
